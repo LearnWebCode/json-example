@@ -1,0 +1,6 @@
+[
+  {"name": "Meowsalot", "species" : "cat", "favFood": "tuna"},
+  {"name": "Barksalot", "species" : "dog", "favFood": "carrots"},
+  {"name": "Purrsloud", "species" : "cat", "favFood": "catnip"},
+  {"name": "Woof", "species" : "dog", "favFood": "boring dog food"}
+]
