@@ -3,24 +3,24 @@
     "name": "Kitty",
     "species" : "cat",
     "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
+      "likes": ["fresh food"],
+      "dislikes": ["stale food"]
     }
   },
   {
     "name": "Pupster",
     "species" : "dog",
     "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
+      "likes": ["tomatoes", "peas"],
+      "dislikes": ["bread"]
     }
   },
   {
     "name": "Tux",
     "species" : "cat",
     "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
+      "likes": ["fancy dishes"],
+      "dislikes": ["basic cat food"]
     }
   }
 ]

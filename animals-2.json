@@ -3,24 +3,24 @@
     "name": "Whiskers",
     "species" : "cat",
     "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
+      "likes": ["celery", "strawberries"],
+      "dislikes": ["carrots"]
     }
   },
   {
     "name": "Woof",
     "species" : "dog",
     "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
+      "likes": ["dog food"],
+      "dislikes": ["cat food"]
     }
   },
   {
     "name": "Fluffy",
     "species" : "cat",
     "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
+      "likes": ["canned food"],
+      "dislikes": ["dry food"]
     }
   }
 ]
