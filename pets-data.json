@@ -3,7 +3,7 @@
     {
       "name" : "Purrsloud",
       "species" : "Cat",
-      "favFoods" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "favFoods" : ["wet food", "dry food", "buiscuit", "<strong>any</strong> food"],
       "birthYear" : 2016,
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
     },
