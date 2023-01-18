@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "A Blog Post About Cats",
+      "slug": "the-cat-post",
+      "content": "This is a wonderful post about cats. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro dolore officiis atque voluptas, quas, repellendus cum, magnam a alias unde reiciendis voluptates aliquam maxime laborum? Quae omnis eius impedit et?"
+    },
+    {
+      "title": "The Dog Post",
+      "slug": "dogs-article",
+      "content": "This is an amazing post all about dogs. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro dolore officiis atque voluptas, quas, repellendus cum, magnam a alias unde reiciendis voluptates aliquam maxime laborum? Quae omnis eius impedit et?"
+    },
+    {
+      "title": "Birds Are Great",
+      "slug": "birds-are-great",
+      "content": "This is a once in a lifetime amazing post about birds. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro dolore officiis atque voluptas, quas, repellendus cum, magnam a alias unde reiciendis voluptates aliquam maxime laborum? Quae omnis eius impedit et?"
+    }
+  ]
+}
