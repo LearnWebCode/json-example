@@ -1,26 +1,20 @@
 [
   {
-    "name": "Meowsy",
-    "species" : "cat",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
-    }
+    "Number": "zaenishi",
+    "Ip": "172.18.0.13",
+    "Access": true,
+    "Added on": ""
   },
   {
-    "name": "Barky",
-    "species" : "dog",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
-    }
+    "Ip": "172.18.0.14"
   },
   {
-    "name": "Purrpaws",
-    "species" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
+    "Ip": "172.18.0.15"
+  },
+  {
+    "Ip": "172.18.0.20"
+  },
+  {
+    "Ip": "172.18.0.12"
   }
 ]
